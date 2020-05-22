@@ -121,10 +121,10 @@ h2{
    }
 
   .imag{
-    margin-top: 200px;
+    margin-top: 400px;
     position: static;
     transform: rotate(0);
-    margin-bottom: 35vh;
+    margin-bottom: 60vh;
   }
   .endcard{
     margin-left: 28%;
