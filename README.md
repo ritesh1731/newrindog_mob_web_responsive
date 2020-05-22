@@ -1,0 +1,1 @@
+# newrindog_mob_web_responsive
